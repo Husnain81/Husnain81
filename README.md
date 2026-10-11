@@ -82,7 +82,7 @@ I've shipped **healthcare platforms, a UK police shift management system, proper
       <h3>🏥 MedGo2U</h3>
       <p><i>Healthcare service platform</i></p>
       <p><b>The problem:</b> Getting healthcare help is slow when patients can't easily reach providers, ask quick questions or know where their service is.</p>
-      <p><b>What I built:</b> A platform where patients sign in with their social accounts, chat with providers in real time, get instant answers from an AI assistant and follow their service with live location tracking.</p>
+      <p><b>What I built:</b> The frontend of a platform where patients sign in with their social accounts, chat with providers in real time, get instant answers from an AI assistant and follow their service with live location tracking.</p>
       <p><code>Next.js</code> <code>TypeScript</code> <code>Real-time chat</code> <code>AI</code></p>
     </td>
     <td width="33%" valign="top">
