@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/m-husnain-zafar-63092036b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:husnainzafar152@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/m-husnain-zafar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:husnain.dev7@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="assets/badge-location.svg" alt="Location" />
   <img src="assets/badge-open-to-work.svg" alt="Open to remote and freelance work" />
 </p>
@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Engineer and Associate Team Lead** with 2.5+ years of experience building scalable, secure web applications, from database design and APIs to polished, responsive frontends.
+I'm a **Full Stack Engineer and Associate Team Lead** with 3+ years of experience building scalable, secure web applications, from database design and APIs to polished, responsive frontends.
 
 I've shipped **healthcare platforms, a UK police shift management system, property rental and e-commerce apps, SaaS dashboards and ERP-style business systems**. Today I lead a development team at Mercury Sols while still writing code every day.
 
@@ -81,19 +81,22 @@ I've shipped **healthcare platforms, a UK police shift management system, proper
     <td width="33%" valign="top">
       <h3>🏥 MedGo2U</h3>
       <p><i>Healthcare service platform</i></p>
-      <p>Social login, real-time chat, AI-powered chat assistant and live location tracking.</p>
-      <p><code>React</code> <code>Real-time</code> <code>AI</code></p>
+      <p><b>The problem:</b> Getting healthcare help is slow when patients can't easily reach providers, ask quick questions or know where their service is.</p>
+      <p><b>What I built:</b> A platform where patients sign in with their social accounts, chat with providers in real time, get instant answers from an AI assistant and follow their service with live location tracking.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>Real-time chat</code> <code>AI</code></p>
     </td>
     <td width="33%" valign="top">
       <h3>👮 BlueRota</h3>
       <p><i>UK police shift management system</i></p>
-      <p>Secure backend with JWT auth, RBAC, overtime calculations and fatigue tracking.</p>
-      <p><code>NestJS</code> <code>PostgreSQL</code> <code>Prisma</code></p>
+      <p><b>The problem:</b> Planning police shifts by hand makes overtime easy to miscalculate and fatigue hard to spot, which affects both pay and officer wellbeing.</p>
+      <p><b>What I built:</b> A secure backend that manages shift rotas, calculates overtime automatically and tracks fatigue, with JWT authentication and role-based access so each role sees only what it should.</p>
+      <p><code>NestJS</code> <code>PostgreSQL</code> <code>Prisma</code> <code>JWT</code> <code>RBAC</code></p>
     </td>
     <td width="33%" valign="top">
       <h3>🏠 Homey</h3>
       <p><i>Property rental platform</i></p>
-      <p>Rebuilt a WordPress theme as a Laravel + Vue.js app with bookings, admin panel and optimized queries.</p>
+      <p><b>The problem:</b> The rental business ran on a WordPress theme that was hard to customise, extend and keep fast as listings grew.</p>
+      <p><b>What I built:</b> Rebuilt it as a custom Laravel + Vue.js application with a full booking system, an admin panel to manage properties and bookings, and optimised database queries for faster pages.</p>
       <p><code>Laravel</code> <code>Vue.js</code> <code>MySQL</code></p>
     </td>
   </tr>
@@ -109,5 +112,5 @@ CGPA **3.65 / 4.00**
 ---
 
 <p align="center">
-  <b>Have a project in mind or hiring?</b> Let's talk on <a href="https://www.linkedin.com/in/m-husnain-zafar-63092036b/">LinkedIn</a> or by <a href="mailto:husnainzafar152@gmail.com">email</a>.
+  <b>Have a project in mind or hiring?</b> Let's talk on <a href="https://www.linkedin.com/in/m-husnain-zafar">LinkedIn</a> or by <a href="mailto:husnain.dev7@gmail.com">email</a>.
 </p>
