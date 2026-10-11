@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/m-husnain-zafar-63092036b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:husnainzafar152@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Pakistan-2b2d31?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Open_to_Work-2ea44f?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to remote and freelance work" />
+  <img src="https://img.shields.io/badge/Open_to-Work-2ea44f?style=for-the-badge" alt="Open to remote and freelance work" />
 </p>
 
 ---
